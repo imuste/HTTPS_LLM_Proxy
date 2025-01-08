@@ -233,3 +233,9 @@ Files:
  -  proxy: precompiled executable file to run the proxy.
 
 
+/*****************************************************************************
+ CREDITS
+******************************************************************************/
+MurmurHash3.cpp and MurmurHash3.h which are used for hashing for the proxy
+cache are written by, and belong to Austin Appleby. 
+Source code files were retrieved here: https://github.com/aappleby/smhasher
