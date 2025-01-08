@@ -2,7 +2,6 @@
  *
  *      include.h
  *      
- *      Marti Zentmaier (mzentm01)
  *      Isabel Muste (imuste01)
  * 
  *      11/10/2024
