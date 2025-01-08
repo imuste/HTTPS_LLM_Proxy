@@ -21,6 +21,9 @@
 #include <curl/curl.h>
 
 
+const char *url = "";
+const char *x_api_key = ""; 
+
 
 /*
  * name:      initializeCategories
