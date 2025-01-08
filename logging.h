@@ -1,3 +1,18 @@
+/*****************************************************************************
+ *
+ *      logging.h
+ *      
+ *      Isabel Muste (imuste01)
+ * 
+ *      11/10/2024
+ *      
+ *      CS 112 Final Project
+ * 
+ *      Contains the included libraries for the entire proxy program
+ *
+ *
+ *****************************************************************************/
+
 #ifndef LOGGING_H
 #define LOGGING_H
 
