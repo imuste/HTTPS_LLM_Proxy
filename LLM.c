@@ -21,9 +21,6 @@
 #include <curl/curl.h>
 
 
-const char *url = "https://a061igc186.execute-api.us-east-1.amazonaws.com/dev";
-const char *x_api_key = "x-api-key: comp112iyk2IrCWK9T8Mq9WKjkvUs53JJz7heGdIvMrogA2"; 
-
 
 /*
  * name:      initializeCategories
