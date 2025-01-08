@@ -50,8 +50,8 @@ Example of full command line arguments:
  -  sh makeFile.sh
  -  ./proxy 8080 --mode-MITM 2> error.log
 
-A precompiled executable file called "proxy" is included in this folder which
-can be used to run the proxy.
+Since the API key to the LLM cannot be made public, running the LLM features 
+is not possible. The general HTTPS functionality can still be run.
 
 
 /*****************************************************************************
