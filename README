@@ -233,10 +233,3 @@ Files:
  -  proxy: precompiled executable file to run the proxy.
 
 
-/*****************************************************************************
- CREDITS
-******************************************************************************/
-This project was written from scratch. I independently wrote approximately 
-70% of the code, while the remaining 30% was written collaboratively with 
-Marti Zentmaier as part of our pair programming process.
-
