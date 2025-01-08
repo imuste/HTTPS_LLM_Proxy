@@ -8,7 +8,7 @@
  *      
  *      CS 112 Final Project
  * 
- *      Contains the included libraries for the entire proxy program
+ *      Contains printing functionality for debugging and logging
  *
  *
  *****************************************************************************/

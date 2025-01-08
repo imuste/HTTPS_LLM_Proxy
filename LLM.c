@@ -3,7 +3,6 @@
  *      LLM.c
  *      
  *      Isabel Muste (imuste01)
- *      Marti Zentmaier (mzentm01)
  * 
  *      11/10/2024
  *      
